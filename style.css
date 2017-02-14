@@ -1,0 +1,45 @@
+  h1 {
+    text-align: center;
+    font-family: Arimo;
+    font-style: oblique;
+  }
+  #ethology {
+    text-align: center;
+  }
+  body {
+    background-color: #f2f5f9;
+  }
+  .center_text {
+    text-align: center;
+  }
+  .frame {
+    border: 2px black;
+    padding: 10px;
+    margin: 5px;
+  }
+  .courgette_font {
+    font-family: Courgette;
+  }
+  .arimo_font {
+    font-family: Arimo;
+  }
+  #image {
+    background-color: #c2c3c4;
+    padding: 5px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60%;
+    width: 60%;
+  }
+  #list_alignment {
+    text-align: left;
+  }
+  /* detect block with red */
+  .block_detector {
+    background-color: red;
+  }
+  /* add space between list */
+  li {
+    margin: 7px 0;
+  }
